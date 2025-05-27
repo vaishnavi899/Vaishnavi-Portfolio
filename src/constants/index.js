@@ -86,7 +86,7 @@ const technologies = [
     icon: github,
   },
   {
-    name: "React JS",
+    name: "MERN",
     icon: reactjs,
   },
   {
