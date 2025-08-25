@@ -30,7 +30,7 @@ const Navbar = () => {
 
         <ul className="list-none hidden sm:flex flex-row gap-10">
           <li>
-            <a href="https://drive.google.com/file/d/1y6gJGnmesUrACh6gwvW--i3p_kOG7n9a/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/1u4ioMrs_yFclitwcAbiBjNGy_YZlRg1I/view?usp=sharing">
               <img
                 src={download_icon}
                 alt="download"
